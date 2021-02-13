@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StockImageVideoFIlter</string>
+    <string name="home_screen_discover">Discover the world’s  best photos &amp; videos</string>
+    <string name="home_screen_search">Search photos, videos, artists</string>
+</resources>
